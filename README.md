@@ -1,3 +1,1 @@
-This is the source code for [drawfence.com](http://www.drawfence.com).
-
-You are **NOT** free to use this source code in your own projects without permision from the author of this project.
+This is the source code for [drawfence.com](http://www.drawfence.com). DrawFence is a website that allows you to easily create fence drawings for building permit applications.
